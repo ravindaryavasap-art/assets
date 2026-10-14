@@ -1,4 +1,17 @@
 {
-  "entries": [],
-  "sig": "placeholder"
+  "entries": [
+    {
+      "h": "a2e67a1f3e5eea6567dcdf0d12a55f25ffe384cbdde673b1b8d742dfd0cd1afa",
+      "n": "snugs plan",
+      "t": "1month",
+      "e": 1794607018
+    },
+    {
+      "h": "df3a75a9f5737af88aef395bcc4b2c85e495454543061664bf34755c572484fe",
+      "n": "L mafia",
+      "t": "lifetime",
+      "e": null
+    }
+  ],
+  "sig": "acc26849ac824f9563d3e00184f2f1c8f7f92f75636a1721e108b7465b28403a"
 }
